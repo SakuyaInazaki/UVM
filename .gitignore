@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Data (IMPORTANT: Do not commit large raw data)
+data/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Sensitive config
+config/cookies.json
+config/secrets.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
