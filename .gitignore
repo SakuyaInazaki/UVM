@@ -38,3 +38,4 @@ config/secrets.py
 build/
 dist/
 *.egg-info/
+.claude/settings.local.json
