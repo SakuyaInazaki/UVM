@@ -1,0 +1,302 @@
+{
+  "timestamp": "20260205_100642",
+  "city": "北京",
+  "estimation": {
+    "total_machines": 34092,
+    "total_venues": 5497
+  },
+  "sales_forecast": {
+    "type_breakdown": {
+      "饮料机": 17852,
+      "零食机": 9345,
+      "咖啡机": 2050,
+      "潮玩机": 1584,
+      "成人用品": 1594,
+      "其他": 1663
+    },
+    "total_daily_sales": 3692930,
+    "total_monthly_sales": 110787900,
+    "annual_sales": 1329454800
+  },
+  "venue_details": {
+    "地铁站": {
+      "poi_count": 540,
+      "machines_per_venue": 8.0,
+      "estimated_machines": 4320,
+      "confidence": "高",
+      "type_distribution": {
+        "饮料机": 0.5,
+        "零食机": 0.3,
+        "成人用品": 0.1,
+        "其他": 0.1
+      },
+      "keyword_details": [
+        [
+          "地铁站",
+          436
+        ],
+        [
+          "地铁口",
+          450
+        ]
+      ]
+    },
+    "写字楼": {
+      "poi_count": 540,
+      "machines_per_venue": 4.0,
+      "estimated_machines": 2160,
+      "confidence": "中高",
+      "type_distribution": {
+        "饮料机": 0.6,
+        "零食机": 0.25,
+        "咖啡机": 0.1,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "写字楼",
+          440
+        ],
+        [
+          "商务楼",
+          442
+        ],
+        [
+          "办公楼",
+          450
+        ],
+        [
+          "SOHO",
+          100
+        ]
+      ]
+    },
+    "高校": {
+      "poi_count": 540,
+      "machines_per_venue": 15.0,
+      "estimated_machines": 8100,
+      "confidence": "高",
+      "type_distribution": {
+        "饮料机": 0.5,
+        "零食机": 0.3,
+        "咖啡机": 0.1,
+        "成人用品": 0.05,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "大学",
+          218
+        ],
+        [
+          "学院",
+          450
+        ]
+      ]
+    },
+    "商场": {
+      "poi_count": 528,
+      "machines_per_venue": 10.0,
+      "estimated_machines": 5280,
+      "confidence": "高",
+      "type_distribution": {
+        "饮料机": 0.3,
+        "潮玩机": 0.3,
+        "零食机": 0.2,
+        "成人用品": 0.1,
+        "咖啡机": 0.05,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "商场",
+          440
+        ],
+        [
+          "购物中心",
+          433
+        ]
+      ]
+    },
+    "住宅小区": {
+      "poi_count": 540,
+      "machines_per_venue": 0.8,
+      "estimated_machines": 432,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.5,
+        "零食机": 0.2,
+        "成人用品": 0.25,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "小区",
+          450
+        ],
+        [
+          "家园",
+          450
+        ],
+        [
+          "公寓",
+          450
+        ]
+      ]
+    },
+    "医院": {
+      "poi_count": 540,
+      "machines_per_venue": 5.0,
+      "estimated_machines": 2700,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.6,
+        "零食机": 0.3,
+        "咖啡机": 0.1
+      },
+      "keyword_details": [
+        [
+          "医院",
+          450
+        ]
+      ]
+    },
+    "工厂园区": {
+      "poi_count": 540,
+      "machines_per_venue": 6.0,
+      "estimated_machines": 3240,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.7,
+        "零食机": 0.25,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "工厂",
+          56
+        ],
+        [
+          "工业园",
+          450
+        ],
+        [
+          "科技园",
+          89
+        ]
+      ]
+    },
+    "酒店": {
+      "poi_count": 540,
+      "machines_per_venue": 2.0,
+      "estimated_machines": 1080,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.6,
+        "零食机": 0.3,
+        "其他": 0.1
+      },
+      "keyword_details": [
+        [
+          "酒店",
+          450
+        ],
+        [
+          "宾馆",
+          450
+        ]
+      ]
+    },
+    "娱乐场所": {
+      "poi_count": 540,
+      "machines_per_venue": 1.5,
+      "estimated_machines": 810,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.6,
+        "零食机": 0.25,
+        "成人用品": 0.15
+      },
+      "keyword_details": [
+        [
+          "KTV",
+          450
+        ],
+        [
+          "网吧",
+          450
+        ],
+        [
+          "台球",
+          450
+        ],
+        [
+          "电竞馆",
+          450
+        ]
+      ]
+    },
+    "交通枢纽": {
+      "poi_count": 109,
+      "machines_per_venue": 30.0,
+      "estimated_machines": 3270,
+      "confidence": "高",
+      "type_distribution": {
+        "饮料机": 0.5,
+        "零食机": 0.3,
+        "咖啡机": 0.15,
+        "其他": 0.05
+      },
+      "keyword_details": [
+        [
+          "机场",
+          13
+        ],
+        [
+          "火车站",
+          91
+        ],
+        [
+          "客运站",
+          64
+        ]
+      ]
+    },
+    "体育馆/展览馆": {
+      "poi_count": 540,
+      "machines_per_venue": 5.0,
+      "estimated_machines": 2700,
+      "confidence": "中",
+      "type_distribution": {
+        "饮料机": 0.7,
+        "零食机": 0.3
+      },
+      "keyword_details": [
+        [
+          "体育馆",
+          367
+        ],
+        [
+          "体育场",
+          390
+        ],
+        [
+          "展览馆",
+          236
+        ],
+        [
+          "博物馆",
+          450
+        ]
+      ]
+    }
+  },
+  "type_breakdown": {
+    "饮料机": 17852,
+    "零食机": 9345,
+    "咖啡机": 2050,
+    "潮玩机": 1584,
+    "成人用品": 1594,
+    "其他": 1663
+  }
+}

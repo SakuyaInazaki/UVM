@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-02-06",
+  "ktv_count": 249,
+  "facilities": {
+    "地铁站_20260205": 500,
+    "商场_20260205": 287,
+    "写字楼_20260205": 395,
+    "便利店_20260205": 696
+  },
+  "spatial_analysis": {
+    "count": 249,
+    "avg_nearest_distance": 1213.1829982155964,
+    "min_nearest_distance": 0.0,
+    "max_nearest_distance": 12532.978164263233,
+    "p25": 344.7143378873044,
+    "p50": 834.2936703154919,
+    "p75": 1605.731455610696,
+    "expected_avg": 3286.356950775824,
+    "r_ratio": 0.369157403284873,
+    "interpretation": "强聚类分布",
+    "area_m2": 5378470719.94046
+  },
+  "correlation_results": [
+    {
+      "facility": "地铁站_20260205",
+      "facility_count": 500,
+      "buffer_radius": 1000,
+      "coverage_ratio": 0.642570281124498,
+      "avg_facilities": 1.9036144578313252,
+      "correlation": "中等正相关",
+      "score": 2,
+      "median_distance": 767.6378969727919
+    },
+    {
+      "facility": "商场_20260205",
+      "facility_count": 287,
+      "buffer_radius": 500,
+      "coverage_ratio": 0.4538152610441767,
+      "avg_facilities": 0.8514056224899599,
+      "correlation": "弱正相关",
+      "score": 1,
+      "median_distance": 688.0163779224301
+    },
+    {
+      "facility": "写字楼_20260205",
+      "facility_count": 395,
+      "buffer_radius": 500,
+      "coverage_ratio": 0.3493975903614458,
+      "avg_facilities": 0.8433734939759037,
+      "correlation": "弱正相关",
+      "score": 1,
+      "median_distance": 831.3271618450999
+    },
+    {
+      "facility": "便利店_20260205",
+      "facility_count": 696,
+      "buffer_radius": 300,
+      "coverage_ratio": 0.27710843373493976,
+      "avg_facilities": 0.3654618473895582,
+      "correlation": "无明显相关",
+      "score": 0,
+      "median_distance": 631.5008620753915
+    }
+  ]
+}
