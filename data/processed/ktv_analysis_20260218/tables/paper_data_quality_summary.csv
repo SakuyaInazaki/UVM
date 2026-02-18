@@ -1,0 +1,9 @@
+﻿metric,value
+n_shops,493
+n_reviews,41140
+address_nonempty,490
+amap_score_nonnull,493
+amap_score_ge_0.75,248
+pkg_official_nonzero,13
+pkg_inferred_nonzero,443
+avg_price_nonnull,15
